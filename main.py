@@ -46,3 +46,4 @@ for i in range(len(word)):      # Вывод зашифрованного или
     new_str += long_alp[zawarudo[i] + st]
 print('Encrypted message: ', new_str)
 
+input('Press ENTER to exit')
