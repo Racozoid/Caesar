@@ -37,7 +37,7 @@
 
 Необходимо запустить файл main.py.
 
-В качестве ввода должен быть английский текст и символы " ", ".", ",", "!", "?"
+В качестве ввода должен быть английский текст 
 
 ![screenshot](https://github.com/Racozoid/Caesar/blob/main/screenshot.PNG?raw=true "Shh")
 
